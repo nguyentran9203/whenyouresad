@@ -4,22 +4,22 @@ import './App.css';
 
 const Notes = [
   { message: "You're amazing just the way you are 💕",
-    image: "/miffyflowers.jpg"},
+    image: "miffyflowers.jpg"},
   {
     message: "You're the best part of my day 🥰",
-    image: "/rilakkuma.gif"
+    image: "rilakkuma.gif"
   },
   {
     message: "I’m so lucky to have you 💖",
-    image: "/miffy-and-boris.jpg"
+    image: "miffy-and-boris.jpg"
   },
   {
     message: "If I were a cat, I’d curl up next to you forever 🐱",
-    image: "/pusheensleep.gif"
+    image: "pusheensleep.gif"
   },
   {
     message: "Miss you already :<",
-    image: "/miffysad.jpg"
+    image: "miffysad.jpg"
   }
 ];
 
