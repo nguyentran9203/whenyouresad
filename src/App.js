@@ -4,22 +4,22 @@ import './App.css';
 
 const Notes = [
   { message: "You're amazing just the way you are 💕",
-    image: "https://github.com/nguyentran9203/whenyouresad/blob/gh-pages/miffyflowers.jpg"},
+    image: "miffyflowers.jpg"},
   {
     message: "You're the best part of my day 🥰",
-    image: "https://github.com/nguyentran9203/whenyouresad/blob/gh-pages/rilakkuma.gif"
+    image: "rilakkuma.gif"
   },
   {
     message: "I’m so lucky to have you 💖",
-    image: "https://github.com/nguyentran9203/whenyouresad/blob/gh-pages/miffy-and-boris.jpg"
+    image: "miffy-and-boris.jpg"
   },
   {
     message: "If I were a cat, I’d curl up next to you forever 🐱",
-    image: "https://github.com/nguyentran9203/whenyouresad/blob/gh-pages/pusheensleep.gif"
+    image: "pusheensleep.gif"
   },
   {
     message: "Miss you already :<",
-    image: "https://github.com/nguyentran9203/whenyouresad/blob/gh-pages/miffysad.jpg"
+    image: "miffysad.jpg"
   }
 ];
 
